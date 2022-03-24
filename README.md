@@ -21,4 +21,5 @@
 **BERT** : Google's BERT (October-2018) is the transformer based method for NLP, outperforming state-of-the-art on several tasks such as QnA, language inference. It is a pre-trained deep Bi-directional Encoder Representation from transformer with Masked Language Modelling (MLM) and Next Sentence Prediction (NSP). <br />
 **RoBERTa** : Facebook's RoBERTa (July-2019), robustly optimized BERT approach, advancing the state-of-the-art in self-supervised systems. It is a BERT without Next Sentence Prediction (NSP). To improve training procedure, RoBERTa removes the Next Sentence Prediction (NSP) task from BERT's pre-training and dynamic masking so that the masked token changes during training epochs. <br />
 
-### The Most Preferred Model : From these 4 cases, currently the RoBERTa model is the most preferred one, as it is the optimized BERT approach.
+### The Most Preferred Model :
+From these 4 cases, currently the **RoBERTa** model is the most preferred one, as it is the **optimized BERT** approach.
