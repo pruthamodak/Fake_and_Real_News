@@ -5,8 +5,8 @@
 ## Implementation :
 
 ### Case 1 : 
-#### Bag of Words : Set of vectors containing count of word occurences, a simple and flexible approach in Text Classification. <br />
-#### Sklearn Library : SVM and RandomForest : Optimal Classifiers for Binary Classification. 
+Bag of Words : Set of vectors containing count of word occurences, a simple and flexible approach in Text Classification. <br />
+Sklearn Library : SVM and RandomForest : Optimal Classifiers for Binary Classification. 
 
 ### Case 2 : 
 TF-IDF : It assigns a value to a term according to its importance in the text scaled by its importance across all the texts in the data. A popular approach in NLP. <br />
